@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_reservas_reserva,access_reservas_reserva,model_reservas_reserva,base.group_user,1,1,1,1
+access_reservas_cliente,access_reservas_cliente,model_reservas_cliente,base.group_user,1,1,1,1
+access_reservas_habitacion,access_reservas_habitacion,model_reservas_habitacion,base.group_user,1,1,1,1
+
